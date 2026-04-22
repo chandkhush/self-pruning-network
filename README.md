@@ -11,7 +11,8 @@ Each weight has a learnable gate (0–1)
 Final weight = weight × gate
 Loss = Classification Loss + λ × Sparsity Loss
 
-## Results Screenshot
+# Results 
 
-![Results](./Screenshot%202026-04-22%20034240.png)
+<img width="161" height="47" alt="image" src="https://github.com/user-attachments/assets/0ba5272a-7b8f-49bb-a92f-9e5efd39c3a7" />
+
 
