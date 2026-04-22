@@ -13,5 +13,5 @@ Loss = Classification Loss + λ × Sparsity Loss
 
 ## Results Screenshot
 
-![Results](Screenshot 2026-04-22 034240.png)
+![Results](./Screenshot%202026-04-22%20034240.png)
 
